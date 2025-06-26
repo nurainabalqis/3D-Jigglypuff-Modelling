@@ -1,5 +1,5 @@
 /*******************************************************
-* PROJECT                                              *
+* FINAL PROJECT                                        *
 * GROUP NAME:                                          *
 * NUR AINA BALQIS BINTI MOHAMAD ZAPARIN - A23CS0151    *
 * KRISTINE ELLE BENJAMIN - A23CS0095                   *
